@@ -25,4 +25,7 @@ class Owner
     @@all.clear
   end
 
+  def buy_fish
+  end
+
 end
