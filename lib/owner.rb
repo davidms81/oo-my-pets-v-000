@@ -25,7 +25,7 @@ class Owner
     @@all.clear
   end
 
-  def buy_fish
+  def buy_fish(name)
   end
 
 end
